@@ -6,11 +6,16 @@ Recreated from the original -
 
 Data Repo: [JakeRuss/witch-trials](https://github.com/JakeRuss/witch-trials) || [Data Source](https://github.com/JakeRuss/witch-trials/blob/master/data/trials.csv)
 
-# Tools
+
+# Process
+
+Tools used:
 
 * Python
 * Pandas
 * Tableau
+
+Disclaimer: This analysis might be faulty and could be using bad data. This repo is for showcase only.
 
 # Input for Visualization
 
@@ -41,4 +46,6 @@ Data Repo: [JakeRuss/witch-trials](https://github.com/JakeRuss/witch-trials) || 
 
 # Tableau Viz
 
-Can be found here: 
+[[country_viz.png]]
+
+Can be found here: https://public.tableau.com/app/profile/anyfactor/viz/WitchTrialsBadDataShowcaseonly/Sheet1?publish=yes
