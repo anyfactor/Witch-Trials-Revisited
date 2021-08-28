@@ -46,6 +46,6 @@ Disclaimer: This analysis might be faulty and could be using bad data. This repo
 
 # Tableau Viz
 
-[[country_viz.png]]
+![](https://raw.githubusercontent.com/anyfactor/Witch-Trials-Revisited/main/country_viz.png)
 
 Can be found here: https://public.tableau.com/app/profile/anyfactor/viz/WitchTrialsBadDataShowcaseonly/Sheet1?publish=yes
